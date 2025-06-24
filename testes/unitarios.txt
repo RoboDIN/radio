@@ -1,0 +1,4 @@
+Criar arquivos para relatar (pode ser link para o drive):
+Testes unitarios
+Testes de integração
+Teste de performance
